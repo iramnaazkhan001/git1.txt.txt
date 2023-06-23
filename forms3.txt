@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Railway</title>
+    <style>
+        .A{
+            text-align: center;
+        }
+        .button{
+            background-color: blue;
+            color: aliceblue;
+        }
+        .button1{
+            background-color: blue; 
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <div class="A">
+        <h3>Rail Ticket Booking Form</h3>
+        </div>
+        <hr>
+        <label>Reservation Quoto</label>
+        <br>
+        <select type="redio">
+            <option>First Class</option>
+            <option>Second Class</option>
+            <option>Third Class</option>
+            <option>Fourth Class</option>
+        </select>
+        <br>
+        <br>
+        <label>Train Name or Number</label>
+        <br>
+        <input type="text">   
+        <br>
+        <br>
+        <label>Journey Form</label>
+        <br>
+        <input type="text"> 
+        <p>Station Code or full station name</p>
+        <br> 
+        <label>Journey To</label>
+        <br>
+        <input type="text"> 
+        <p>Destination Station Code or full station name</p>
+        <br>
+        <label>Departure/Journey Date</label>
+        <br>
+        <input type="date">
+        <br>
+        <br>
+        <hr>
+        <label>Passengers Details 1</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label>Age</label>
+        <br>
+        <input type="number" placeholder="ex": 18>
+        <br>
+        <br>
+        <label>Sex</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Others</option>
+        </select>
+        <br>
+        <br>
+        <label>Berth Choice</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Lower</option>
+            <option>Middle</option>
+                <option>Upper</option>
+                <option>Side Lower</option>
+                <option>Side Upper</option>
+            </select>
+        </select>
+        <br>
+        <br>
+        <label>Phone Number</label>  
+        <br> 
+        <input type=" number" placeholder="(000)000-0000">
+        <p>please enter a valid phone number.</p>
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="email">
+        <p>eaxmple@eaxmple.com</p>
+        <br>
+        <hr>
+        <label>Passengers Details 2</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label>Age</label>
+        <br>
+        <input type="number" placeholder="ex": 18>
+        <br>
+        <br>
+        <label>Sex</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Others</option>
+        </select>
+        <br>
+        <br>
+        <label>Berth Choice</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Lower</option>
+            <option>Middle</option>
+                <option>Upper</option>
+                <option>Side Lower</option>
+                <option>Side Upper</option>
+            </select>
+        </select>
+        <br>
+        <br>
+        <label>Phone Number</label>  
+        <br> 
+        <input type=" number" placeholder="(000)000-0000">
+        <p>please enter a valid phone number.</p>
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="email">
+        <p>eaxmple@eaxmple.com</p>
+        <br>
+        <hr>
+        <label>Passengers Details 3</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label>Age</label>
+        <br>
+        <input type="number" placeholder="ex": 18>
+        <br>
+        <br>
+        <label>Sex</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Others</option>
+        </select>
+        <br>
+        <br>
+        <label>Berth Choice</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Lower</option>
+            <option>Middle</option>
+                <option>Upper</option>
+                <option>Side Lower</option>
+                <option>Side Upper</option>
+            </select>
+        </select>
+        <br>
+        <br>
+        <label>Phone Number</label>  
+        <br> 
+        <input type=" number" placeholder="(000)000-0000">
+        <p>please enter a valid phone number.</p>
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="email">
+        <p>eaxmple@eaxmple.com</p>
+        <br>
+        <hr>
+        <label>Passengers Details 4</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label>Age</label>
+        <br>
+        <input type="number" placeholder="ex": 18>
+        <br>
+        <br>
+        <label>Sex</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Others</option>
+        </select>
+        <br>
+        <br>
+        <label>Berth Choice</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Lower</option>
+            <option>Middle</option>
+                <option>Upper</option>
+                <option>Side Lower</option>
+                <option>Side Upper</option>
+            </select>
+        </select>
+        <br>
+        <br>
+        <label>Phone Number</label>  
+        <br> 
+        <input type=" number" placeholder="(000)000-0000">
+        <p>please enter a valid phone number.</p>
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="email">
+        <p>eaxmple@eaxmple.com</p>
+        <br>
+        <label>I agree to terms & conditions.</label>
+        <input type="checkbox" checked>
+        <br>
+        <br>
+        <button class="button">
+           Submit</button>
+           <button class="button1">Cancle</button>
+    </form>
+    
+</body>
+</html

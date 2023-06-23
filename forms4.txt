@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Hospital Registration</title>
+    <style>
+        .A{
+            background-color: rgb(173, 221, 251);
+        }
+        .button{
+             background-color: rgb(9, 28, 231);
+             color: white;
+        }
+    </style>
+</head>
+<body class="A">
+    <h2>Hospital Patient Registration Form</h2>
+    <br>
+    <label>Registration Date and Time</label>
+    <br>
+    <input type="date"> <input type="time">
+    <br>
+    <br>
+    <label>Health Care Number</label>
+    <br>
+    <input type="Number" placeholder="ex.23">
+    <br>
+    <br>
+    <hr>
+    <label>Patient Name</label>
+    <br>
+    <input type="text" placeholder="First Name"> <input type="text" placeholder="Last Name">
+    <br>
+    <br>
+    <label>Sex</label>
+    <br>
+    <select type="redio">
+        <option>Select</option>
+        <option>Male</option>
+        <option>Female</option>
+        <option>N/A</option>
+    </select>
+    <br>
+    <br>
+        <label>Date of Birth</label>
+        <br>
+        <input type="date">
+        <br>
+        <br>
+        <label>Phone Number</label>
+        <br>
+        <input type="number" placeholder="(000) 000-0000">
+        <br>
+        <br>
+        <label>Email</label>
+        <br>
+        <input type="email" placeholder="ex: myname@eaxmple.com">
+        <br>
+        <br>
+        <label>Address</label>
+        <br>
+        <input type="text" placeholder="Street Address">
+        <br>
+        <br>
+        <input type="text" placeholder="Street Address line 2">
+        <br>
+        <br>
+        <input type="text" placeholder="City">    <input type="text" placeholder="State/province">
+        <br>
+        <br>
+        <input type="text" placeholder="Postal/ Zip Code">   
+        <br>
+        <br>
+        <label>Marital Status</label>
+        <br>
+        <select type="redio">
+            <option>Select</option>
+            <option>Single</option>
+            <option>Married</option>
+            <option>Divorced</option>
+            <option>Legally separated</option>
+            <option>Widowed</option>
+        </select>
+        <br>
+        <br>
+        <label>is the patient younger than 18?</label>
+        <br>
+             Yes:<input type="radio" name="Yes">
+             <br>
+             No:<input type="radio" name="No">
+             <br>
+             <br>
+             <label><h4>Emergency Contact</h4></label>
+             <hr>
+             <br>
+             <label>Emergency Contact</label>
+             <br>
+             <input type="text" placeholder="First Name"> <input type="text" placeholder="Last Name">
+             <br>
+             <br>
+             <label>Relationship</label>
+             <br>
+             <input type="text">
+              <br>
+              <br>
+             <label>Contact Number</label>
+             <br>
+             <input type="number" placeholder="(000)000-0000">
+             <br>
+             <br>
+             <label>Family Doctor Name</label>
+             <br>
+             <input type="text" placeholder="First Name"> <input type="text" placeholder="Last Name"> 
+             <br>
+             <br>
+             <label>Family Doctor Phone Number</label>
+             <br>
+             <input type="number" placeholder="(000)000-0000">
+             <br>
+             <br>
+             <label>Preferred Pharmacy</label>
+             <br>
+             <input type="text">
+             <br>
+             <br>
+             <label>Pharmacy Phone Number</label>
+             <br>
+             <input type="text" placeholder="(000)000-0000">
+             <br>
+             <br>
+             <label><h4>Health History</h4></label>
+             <hr>
+             <br>
+             <label>Reason for Registration</label>
+             <br>
+             <input type="text">
+             <br>
+             <br>
+             <label>Additional Notes</label>
+             <br>
+             <input type="text">
+             <br>
+             <br>
+             <label>Taking any medications, currently?</label>
+             <br>
+              Yes:<input type="radio" name="Yes">
+             <br>
+             No:<input type="radio" name="No">
+             <br>
+             <br>
+             <label><h4>Insurance Information</h4></label>
+             <br>
+             <label>Insurance Company</label>
+             <br>
+             <input type="text">
+             <br>
+             <br>
+             <label>Insurance ID</label>
+             <br>
+             <input type="text">
+             <br>
+             <br>
+             <label>Policy Holder's Name</label>
+             <br>
+             <input type="text" placeholder="First Name">    <input type="Last Name">
+             <br>
+             <br>
+             <label>Date of Birth</label>
+             <br>
+             <input type="date">
+             <br>
+             <br>
+             <button class="button">
+                Register
+             </button>
+</body>
+</html>
