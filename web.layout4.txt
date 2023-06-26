@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>WebPage Layout 3</title>
+</head>
+<body>
+      <div style="background-color: rgb(249, 241, 8); height: 50px; width: 100%; text-align: center; margin: 0.5%;">Logo
+</div> 
+<div style="background-color:rgb(251, 248, 248); height: 400px; width: 100%;margin: 0.5%; padding: 10px;">
+        <div style="background-color: cadetblue;height: 90px; width: 60%; margin-left: 306px; text-align: center;"> Header/Banner
+     </div>
+           <div style="background-color: rgb(82, 108, 56); height: 300px; width: 60%; margin-left: 40%;margin-top: 10px; text-align: center;">Body Area
+                </div>
+</div>
+            <div style="background-color: aqua;height: 40px; width: 100%; margin: 1.7%;text-align: center;">
+                Footer 
+            </div>
+</body>
+</html>

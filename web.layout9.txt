@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Website Layout 9</title>
+</head>
+<body>
+    <div style="background-color: crimson;height: 40px; width: 100%; text-align: center; margin: 0.5%;">
+        HELLO IRAM!
+    </div>
+    <div style="background-color: lightblue;height: 150px; width: 100%; text-align: center; margin: 0.5%;">
+        TYPE HERE YOUR HOBBIES!!
+        <div style="background-color: lightcoral; height: 80px; width: 400px; margin-top: 30px; margin-left: 25%;">
+            About yourself
+        </div>
+    </div>
+    <div style="background-color: thistle; height: 200px; width: 100%;margin: 0.5%; display: flex;">
+        <div style="background-color: brown; height: 150px; width: 200px;margin-left: 20px; margin: 0.5%; text-align: center;">box1</div>
+        <div style="background-color: yellowgreen; height: 150px; width: 200px; margin: 0.5%; margin-left: 380px;text-align: center;">box2</div>
+    </div>
+    <div style="background-color: lightseagreen;height: 40px; width: 100%; text-align: center;">End here
+    </div>
+</body>
+</html>

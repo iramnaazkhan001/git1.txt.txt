@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>WebPage Layout 1</title>
+</head>
+<body>
+    <div style="text-align: center; background-color: blanchedalmond; height: 40px; width: 767px; border: 200%; ">
+        Navigation Bar 
+    </div>
+    <div style="text-align: center; background-color: rgb(157, 175, 140); height: 400px; width: 767px;">
+        <div style="background-color: rgb(179, 118, 118); height: 400px; width: 250px; margin-bottom: 300px;">
+            Side bar
+            <div style="background-color: rgb(157, 175, 140);height: 400px; width: 517px; margin-left: 250px;margin-bottom: 20px;" >
+            Content
+            </div>
+        </div>
+    </div>
+    <div style="background-color: burlywood; height: 40px; width: 767px; text-align: center;">
+        Footer
+    </div>
+</body>
+</html>

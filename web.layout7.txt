@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>WebPage Layout 7</title>
+</head>
+<body>
+<div style="background-color: aquamarine; height: 100%; width: 100%; display: flex;">
+    <div style="background-color: blueviolet; height: 80px; width: 100%; display: flex;">box 1
+    </div>
+    <div style="background-color: cornflowerblue; height: 80px; width: 100%;">box2
+    </div>
+    <div style="background-color: bisque; height: 200px; width: 100%;">box3</div>
+</div>
+<div style="background-color: cadetblue; height: 300px;">box4
+<div style="background-color: thistle; height: 80px; width: 100%;margin-top: 10%; ">box5
+</div>
+</div>
+<div style="background-color: violet; height: 40px; width: 100%;">box6</div>
+</body>
+</html>

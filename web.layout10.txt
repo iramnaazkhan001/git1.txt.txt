@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>WebPage Layout 10</title>
+</head>
+<body>
+    <div style="background-color: cornflowerblue; height: 50px; width: 100%; text-align: center;">header
+        <div style="background-color: aqua; height: 20px; width: 30%; margin-left: 10px;display: flex;">Logo
+            <div style="background-color: aqua;width: 200px; height: 20px; margin-left: 280%;"> Navigation
+            </div>
+        </div>
+    </div>
+<div style="background-color: lightseagreen; height: 150px; width: 100%; text-align: center;">
+    slider
+</div>
+<div style="background-color: burlywood;height: 250px;width: 100%; text-align: center;display: flex;">
+    Middle container
+    <div style="background-color: cadetblue; height:220px;width: 20%;text-align: center; margin-left: 20px; margin-top: 20px;">
+        left col
+    </div>
+    <div style="background-color: crimson;height: 220px; width: 20%;text-align: center; margin-left: 60px; margin-top: 20px;">
+        centered col
+    </div>
+    <div style="background-color: darksalmon; height:220px; width: 20%; text-align: center; margin-left: 80px; margin-top: 20px;">Right col
+    </div>
+</div>
+<div style="background-color: aquamarine; height: 80px; width: 100%; text-align: center; display: flex;">
+    Footer
+    <div style="background-color: antiquewhite;height: 50px; width: 190px; margin-left: 10%;margin-top: 20px;">
+        left footer cont
+    </div>
+    <div style="background-color: yellowgreen; height: 50px; width: 190px;margin-left: 30%; margin-top: 20px;">
+        right footer cont
+    </div>
+</div> 
+<div style="background-color: cornflowerblue; height: 20px; width: 100%;text-align: center;">credits</div>
+</body>
+</html>

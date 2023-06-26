@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WebPage Layout 2</title>
+</head>
+<body>
+    <div style="background-color: aquamarine; height: 40px; width: 100%; margin: 0.5%;text-align: center;">
+        Logo</div>
+        <div style="background-color: rgb(193, 247, 28); height: 20px; width: 100%; margin: 0.5%; text-align: center;">
+            Navigation</div>
+    <div style="background-color: blanchedalmond; height: 80px; width: 100%; margin: 0.5%;text-align: center;">
+        Header/Banner </div>
+        <div style="background-color: cadetblue; height: 300px; width: 100%; margin: 0.5%; text-align: center;">
+            <div style="background-color: aqua; height: 300px; width: 20%;">
+              Side Bar
+              <div style="background-color:cadetblue ; height: 282px; width: 400%; margin-left: 100%; margin-bottom: 20%; margin: 0.5;">
+               Body Area
+              </div>
+            </div>
+        </div>
+        <div style="background-color: yellow; height: 20px; width: 100%; margin: 0.5%; text-align: center;">
+            Footer
+        </div>
+
+</body>
+</html>

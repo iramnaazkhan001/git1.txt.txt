@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>WebPage Layout 5</title>
+</head>
+<body>
+<div style="background-color: violet; height:50px; width: 100%; display: flex;">Logo
+    <div style="background-color: antiquewhite; height: 50px;width: 50%; margin-left: 50%;">Navigation
+</div>
+    </div> 
+<div style="background-color: rgb(243, 254, 122); height: 100px;">A
+    </div>
+<div style="background-color: cornflowerblue; height: 400px; width: 100%; display: flex;">
+    <div style="background-color: rgb(184, 184, 141); height: 80px; width: 100px;">A1
+</div>
+    <div style="background-color: aqua; height: 80px; width: 100px;">A2
+</div>
+    <div style="background-color: antiquewhite; height: 80px;width: 100px;">A3
+</div>
+     <div style="background-color: rgb(236, 145, 10); height: 80px; width: 100px;">A4
+</div>
+    <div style="background-color: aquamarine; height: 80px; width: 100px;">A5
+</div>
+     <div style="background-color: burlywood; height: 80px; width: 100px;">A6
+</div>
+     <div style="background-color: chocolate; height: 80px; width: 100px;">A7
+</div>
+     <div style="background-color: cadetblue; height: 80px; width: 80px;">A8
+</div>
+      </div>
+<div style="background-color: rgb(205, 165, 251);height: 100px;">Footer
+</div>        
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Website Layout 8</title>
+</head>
+<body>
+    <div style="background-color: rgb(8, 36, 27);height: 40px; width: 100%; margin: 0.5%;">Navigation bar</div>
+    <div style="background-color: aquamarine; height: 400px; width: 100%; display: flex; margin: 0.5%;">
+<div style="background-color: beige; height: 390px; width: 200px; margin: 0.5%;">
+    <div style="background-color: aqua; height: 80px; width: 190px; margin-top: 1%; margin-left: 2.5%;">box1
+    </div>
+</div>
+<div style="background-color: burlywood; height: 390px; width: 200px; margin: 0.5%;">
+    <div style="background-color: rgb(234, 219, 215); height: 80px; width: 190px;margin-left: 2.5%; margin-top: 1%;">box2
+    </div>
+</div>
+<div style="background-color: coral; height: 390px; width: 200px;margin: 0.5%;">
+    <div style="background-color: turquoise;height: 80px; width: 190px; margin-left: 2.5%; margin-top: 1%;">box3
+    </div>
+</div>
+<div style="background-color: crimson;height: 390px; width: 150px; margin: 0.5%;">Right side bar 
+</div>
+    </div>
+    <div style="background-color: rgb(147, 129, 56); height: 40px; width: 100%; margin: 0.5%;;">Footer
+    </div>
+</body>
+</html>
